@@ -1,0 +1,4 @@
+[INFO: 2020-05-29 11:40:51 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:16)] URL is opened
+[INFO: 2020-05-29 11:41:12 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:20)] Entered username
+[INFO: 2020-05-29 11:41:18 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:23)] Entered password
+[INFO: 2020-05-29 11:41:20 com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29)] Login test passed
